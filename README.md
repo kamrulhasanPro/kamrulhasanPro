@@ -14,3 +14,24 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+### Hi there 👋, I am Kamrul Hasan
+#### I am Web Developer.
+--------------------------------------------------------------------
+A modern and responsive web application built with HTML, CSS, JavaScript, and Tailwind CSS. This project demonstrates core front-end development skills, including layout design, user interaction, and responsive behavior. Ideal for practicing modern UI development.
+______________________________________________________________________
+Skills:  HTML / CSS / JS
+----------------------------------------------------------------------
+______________________________________________________________________
+- 🌱 I’m currently learning JavaScript  
+______________________________________________________________________
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/kamrulmia)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/kamrulmiazi//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://web.facebook.com/mrkamrulmiazi)  
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kamrulhasan7)](https://github.com/anuraghazra/github-readme-stats)
+
+![GitHub metrics](https://metrics.lecoq.io/kamrulhasan7)  
+
+![GitHub streak stats](https://streak-stats.demolab.com/?user=kamrulhasan7)  
+
