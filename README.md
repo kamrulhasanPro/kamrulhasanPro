@@ -29,8 +29,8 @@ ______________________________________________________________________
 [<img  height="40" alt="image" src="https://github.com/user-attachments/assets/3ab6c69a-03e5-4208-a1b4-04f60d243ea5" />
 ](https://web.facebook.com/mrkamrulmiazi)  [<img height="40" alt="image" src="https://github.com/user-attachments/assets/da6d71bc-90c4-4320-856b-54826464bcb4" />](https://www.linkedin.com/in/kamrulmiazi//)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kamrulhasan7)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kamrulhasanPro)](https://github.com/anuraghazra/github-readme-stats)
 
 ______________________________________________________________________
-![GitHub streak stats](https://streak-stats.demolab.com/?user=kamrulhasan7)  
+![GitHub streak stats](https://streak-stats.demolab.com/?user=kamrulhasanPro)  
 
