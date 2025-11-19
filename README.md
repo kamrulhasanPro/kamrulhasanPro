@@ -15,12 +15,17 @@
 
 <br/>
 
+<!-- about me -->
+### About Me
+Hi there, I'm Kamrul Hasan — a web developer who loves programming and always enjoys learning new technologies.
+
 <!--- about --->
-- 👋 Hi, I’m **[@kamrulhasanPro](https://github.com/kamrulhasanPro)**
-- 🖥️ I’m currently working on **HTML, CSS, JACASCRIPT, React.js, Tailwindcss** for frontend development.
+
+- 🖥️ I’m working with **HTML, CSS, JACASCRIPT, React.js, Tailwindcss** for frontend development.
 - 🗄️ Using **Node.js, Express.js, MongoDB** for the backend.
 - 🛠️ I’m currently learning **Jwt, bcrypt**.
 - 💬 Ask me about **MERN-Stack (MongoDB, Express, React, Node.js)**.
+- 🌐  I’m working on a Zap Shift Delivery website.
 - 📫 Feel free to reach me out **[Email](kamrul116522@gmail.com)**
   
 <br/>
@@ -68,22 +73,33 @@
 ## <img src="https://media1.giphy.com/media/TJP7EH5i1fB2rKeWbf/giphy.webp" width="30"><b> GITHUB STATISTICS & ANALYSIS:</b>
 
 ### GitHub Contributions:
-![Snake Grid](https://github.com/kamrulhasanPro/contribution-snake/blob/output/grid.svg)
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kamrulhasanPro&theme=tokyo-night" />
+</p>
+
+### 📊 Github Stats
+
+| Top Languages | GitHub Stats | GitHub Streak |
+|:---:|:---:|:---:|
+| ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kamrulhasanPro&theme=transparent&hide_border=true&include_all_commits=true&count_private=true&layout=compact) | ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kamrulhasanPro&theme=transparent&hide_border=true&include_all_commits=true&count_private=false) | ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=kamrulhasanPro&theme=transparent&hide_border=true) |
 
 
-### GitHub Statistics:
-| <a><img align="center" src="https://github-readme-stats.vercel.app/api?username=touhidcodes&theme=swift&hide_border=true&include_all_commits=false&count_private=false" /></a> | <a><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=touhidcodes&theme=swift&hide_border=true&include_all_commits=false&count_private=false&layout=compact" /></a> |
-| ------------- | ------------- |
+---
 
-### Repository Stats & Streak:
-| <a><img align="center" src="https://github-contributor-stats.vercel.app/api?username=kamrulhasanPro&limit=5&theme=swift&combine_all_yearly_contributions=true&hide_border=true" /></a> | <a><img align="center" src="https://streak-stats.demolab.com/?user=kamrulhasanPro" /></a> |
-| ------------- | ------------- |
+### 💬 Let's Connect
+
+<p align="center">
+  <a href="mailto:kamrul116522@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/kamrulmiazi" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+</p>
+
+---
 
 <br/>
 
 <!--- random quote --->
 ##  <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width ="30"><b> RANDOM DEV QUOTE:</b>
-<img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=light"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=dark"/>
 
 ---
 
