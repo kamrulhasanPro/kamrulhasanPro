@@ -1,5 +1,6 @@
 <!--- banner --->
-<img src="/github_banner.png" alt="Hello world">
+<img src="github_banner.png" alt="github banner">
+
 
 <br/>
 
@@ -8,7 +9,7 @@
   <ul align="center">
     <summary><h1 style="display: inline-block">Hi 👋, I'm Kamrul Hasan</h1></summary>
     <!--- typo --->
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=500&size=25&pause=1000&color=2B90FF&center=true&vCenter=true&width=500&lines=Web+Development+Learner;MERN+Stack+Developer;JavaScript+Enthusiast" alt="Typing SVG" /></a>
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=500&size=25&pause=1000&color=2B90FF&center=true&vCenter=true&width=500&lines=MERN+Stack+Developer;Web+Development+Learner;JavaScript+Enthusiast" alt="Typing SVG" /></a>
   </ul>
 </div>
 
@@ -30,14 +31,15 @@
 <div>
   <p align="left">
     <a href="https://linkedin.com/in/kamrulmiazi" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" alt="kamrulhasan" height="30" width="40" /></a>
-    <a href="https://discord.gg/_kamrul_hasan_" target="blank"><img src="https://skillicons.dev/icons?i=discord" alt="kamrulhasan" height="30" width="40" /></a>
+    <a href="https://www.facebook.com/mrkamrulmiazi" target="_blank"><img src="https://i.postimg.cc/Pqhj40JQ/facebook.png"  alt="Facebook" />
+</a>
   </p>
 </div>
 
 <br/>
 
 <!--- technology --->
-##  <img src="https://media4.giphy.com/media/KGhpQ5NMoWKQurlHwI/giphy.webp" width ="35"><b> TECHNOLOGY STACK:</b>
+##  <b> TECHNOLOGY STACK:</b>
 
 ### Languages:
 [![Languages](https://skillicons.dev/icons?i=html,css,javascript)](https://github.com/kamrulhasanPro)
