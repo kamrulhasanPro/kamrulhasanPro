@@ -1,12 +1,12 @@
 <!--- banner --->
-<img src="./banner/github_banner.png" alt="Hello world">
+<!-- <img src="./banner/github_banner.png" alt="Hello world"> -->
 
 <br/>
 
 <!--- title --->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h1 style="display: inline-block">Hi 👋, I'm Touhidur Zaman</h1></summary>
+    <summary><h1 style="display: inline-block">Hi 👋, I'm Kamrul Hasan</h1></summary>
     <!--- typo --->
     <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=500&size=25&pause=1000&color=2B90FF&center=true&vCenter=true&width=500&lines=Web+Development+Learner;MERN+Stack+Developer;JavaScript+Enthusiast" alt="Typing SVG" /></a>
   </ul>
@@ -25,12 +25,12 @@
 <br/>
 
 <!--- socials --->
-## <img src="https://media2.giphy.com/media/65qzUZckzeWG1wugLW/giphy.webp" width="35"><b> FOLLOW ME ON SOCIALS:</b>
+## <b> FOLLOW ME ON SOCIALS:</b>
 
 <div>
   <p align="left">
-    <a href="https://linkedin.com/in/kamrulmiazi" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" alt="touhidcodes" height="30" width="40" /></a>
-    <a href="https://discord.gg/_kamrul_hasan_" target="blank"><img src="https://skillicons.dev/icons?i=discord" alt="touhidcodes#9825" height="30" width="40" /></a>
+    <a href="https://linkedin.com/in/kamrulmiazi" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" alt="kamrulhasan" height="30" width="40" /></a>
+    <a href="https://discord.gg/_kamrul_hasan_" target="blank"><img src="https://skillicons.dev/icons?i=discord" alt="kamrulhasan" height="30" width="40" /></a>
   </p>
 </div>
 
