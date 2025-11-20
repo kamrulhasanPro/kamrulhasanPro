@@ -35,7 +35,7 @@ Hi there, I'm Kamrul Hasan — a web developer who loves programming and always 
 
 <div>
   <p align="left">
-    <a href="https://linkedin.com/in/kamrulmiazi" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" alt="kamrulhasan" height="30" width="40" /></a>
+    <a href="https://linkedin.com/in/kamrulhasanmiazi" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" alt="kamrulhasan" height="30" width="40" /></a>
     <a href="https://www.facebook.com/mrkamrulmiazi" target="_blank"><img src="https://i.postimg.cc/Pqhj40JQ/facebook.png"  alt="Facebook" />
 </a>
   </p>
