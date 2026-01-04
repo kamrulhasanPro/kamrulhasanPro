@@ -81,8 +81,7 @@ Hi there, I'm Kamrul Hasan — a web developer who loves programming and always 
 
 | Top Languages | GitHub Stats | GitHub Streak |
 |:---:|:---:|:---:|
-| ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kamrulhasanPro&theme=transparent&hide_border=true&include_all_commits=true&count_private=true&layout=compact) | ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kamrulhasanPro&theme=transparent&hide_border=true&include_all_commits=true&count_private=false) | ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=kamrulhasanPro&theme=transparent&hide_border=true) |
-
+| ![Top Languages](https://github-readme-stats-sigma-vert-48.vercel.app/api/top-langs/?username=kamrulhasanPro&layout=compact&theme=transparent&hide_border=true) | ![GitHub Stats](https://github-readme-stats-sigma-vert-48.vercel.app/api?username=kamrulhasanPro&theme=transparent&hide_border=true) | ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=kamrulhasanPro&theme=transparent&hide_border=true) |
 
 ---
 
