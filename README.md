@@ -74,7 +74,7 @@ Hi there, I'm Kamrul Hasan — a web developer who loves programming and always 
 
 ### GitHub Contributions:
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kamrulhasanPro&theme=tokyo-night" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kamrulhasanPro&theme=react-dark" width="100%"/>
 </p>
 
 ### 📊 Github Stats
