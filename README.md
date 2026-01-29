@@ -79,9 +79,13 @@ Hi there, I'm Kamrul Hasan — a web developer who loves programming and always 
 
 ### 📊 Github Stats
 
-| Top Languages | GitHub Stats | GitHub Streak |
-|:---:|:---:|:---:|
-| ![Top Languages](https://github-readme-stats-sigma-vert-48.vercel.app/api/top-langs/?username=kamrulhasanPro&layout=compact&theme=transparent&hide_border=true) | ![GitHub Stats](https://github-readme-stats-sigma-vert-48.vercel.app/api?username=kamrulhasanPro&theme=transparent&hide_border=true) | ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=kamrulhasanPro&theme=transparent&hide_border=true) |
+  <p align="center">
+  <img src="https://yourinsights.vercel.app/api/insight?username=kamrulhasanPro&theme=github_dark&graph=false&languages=true&streak=true&stats=true&header=true&summary=true&profile=false" width='100%' alt="GitHub Insights" />
+</p>
+
+<!-- | Top Languages | GitHub Stats | GitHub Streak |
+  |:---:|:---:|:---:|
+| ![Top Languages](https://github-readme-stats-sigma-vert-48.vercel.app/api/top-langs/?username=kamrulhasanPro&layout=compact&theme=transparent&hide_border=true) | ![GitHub Stats](https://github-readme-stats-sigma-vert-48.vercel.app/api?username=kamrulhasanPro&theme=transparent&hide_border=true) | ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=kamrulhasanPro&theme=transparent&hide_border=true) | -->
 
 ---
 
